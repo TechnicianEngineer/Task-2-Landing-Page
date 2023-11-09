@@ -1,2 +1,2 @@
 # Task-2-Landing-Page
-it includes various task that should be done in a day.
+It is a standalone eb page, created specially for a marketing or advertising campaign
